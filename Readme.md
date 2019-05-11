@@ -1,6 +1,9 @@
 Unittest example project
 ------------------------
 - Create virtualenv python3
+```
+virtualenv -p python3 <envname>
+```
 - Install packages:
 ```
 pip install flask 
