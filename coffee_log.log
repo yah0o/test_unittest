@@ -1,0 +1,761 @@
+2019-05-11 14:35:35,414 - logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 14:35:35,415 - logs : MainThread - INFO - query successful
+2019-05-11 14:35:35,415 - logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 14:35:35,415 - logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 14:35:35,415 - logs : MainThread - INFO - query successful
+2019-05-11 14:35:35,416 - logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 14:35:35,588 - logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 14:35:35,589 - logs : MainThread - INFO - query successful
+2019-05-11 14:35:35,589 - logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 14:35:35,590 - logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 14:35:35,590 - logs : MainThread - INFO - query successful
+2019-05-11 14:35:35,590 - logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 14:35:39,646 - logs : Thread-2 - INFO - Web - selecting user role
+2019-05-11 14:36:33,976 - logs : Thread-9 - INFO - Web - selecting user role
+2019-05-11 14:38:06,409 - logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 14:38:06,410 - logs : MainThread - INFO - query successful
+2019-05-11 14:38:06,410 - logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 14:38:06,410 - logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 14:38:06,411 - logs : MainThread - INFO - query successful
+2019-05-11 14:38:06,411 - logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 14:38:06,587 - logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 14:38:06,588 - logs : MainThread - INFO - query successful
+2019-05-11 14:38:06,588 - logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 14:38:06,589 - logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 14:38:06,589 - logs : MainThread - INFO - query successful
+2019-05-11 14:38:06,589 - logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 14:38:10,853 - logs : Thread-2 - INFO - Web - selecting user role
+2019-05-11 14:38:22,983 - logs : Thread-8 - INFO - Web - selecting user role
+2019-05-11 14:38:47,291 - logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 14:38:47,291 - logs : MainThread - INFO - query successful
+2019-05-11 14:38:47,291 - logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 14:38:47,292 - logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 14:38:47,292 - logs : MainThread - INFO - query successful
+2019-05-11 14:38:47,292 - logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 14:38:47,456 - logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 14:38:47,457 - logs : MainThread - INFO - query successful
+2019-05-11 14:38:47,457 - logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 14:38:47,457 - logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 14:38:47,458 - logs : MainThread - INFO - query successful
+2019-05-11 14:38:47,458 - logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 14:38:50,317 - logs : Thread-2 - INFO - Web - selecting user role
+2019-05-11 14:39:48,961 - logs : Thread-4 - INFO - Web - salesman role selected
+2019-05-11 14:39:51,235 - logs : Thread-5 - INFO - Web - salesman John logged in
+2019-05-11 14:39:51,235 - logs : Thread-5 - INFO - Executing get query: SELECT * FROM employees WHERE name = ? and position = 1, ('John',)
+2019-05-11 14:39:51,236 - logs : Thread-5 - INFO - query successful
+2019-05-11 14:39:51,236 - logs : Thread-5 - INFO - Salesman  John 
+2019-05-11 14:39:51,241 - logs : Thread-6 - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 14:39:51,241 - logs : Thread-6 - INFO - query successful
+2019-05-11 14:39:51,242 - logs : Thread-6 - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 14:39:51,242 - logs : Thread-6 - INFO - Web - beverage selection
+2019-05-11 14:39:54,462 - logs : Thread-7 - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 14:39:54,463 - logs : Thread-7 - INFO - query successful
+2019-05-11 14:39:54,463 - logs : Thread-7 - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 14:39:54,463 - logs : Thread-7 - INFO - Web - additionals selection
+2019-05-11 14:39:57,126 - logs : Thread-8 - INFO - Web - requesting bill
+2019-05-11 14:39:58,147 - logs : Thread-9 - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Espresso',)
+2019-05-11 14:39:58,148 - logs : Thread-9 - INFO - query successful
+2019-05-11 14:39:58,148 - logs : Thread-9 - INFO - On get_beverage_price -- result [(1.0,)]
+2019-05-11 14:39:58,149 - logs : Thread-9 - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Sugar',)
+2019-05-11 14:39:58,149 - logs : Thread-9 - INFO - query successful
+2019-05-11 14:39:58,149 - logs : Thread-9 - INFO - On get_additinal_price -- result [(0.1,)]
+2019-05-11 14:39:58,150 - logs : Thread-9 - INFO - Web - for beverage coffee Espresso and additional Sugar price 1.1 
+2019-05-11 14:40:00,836 - logs : Thread-10 - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Espresso',)
+2019-05-11 14:40:00,837 - logs : Thread-10 - INFO - query successful
+2019-05-11 14:40:00,837 - logs : Thread-10 - INFO - On get_beverage_price -- result [(1.0,)]
+2019-05-11 14:40:00,837 - logs : Thread-10 - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Sugar',)
+2019-05-11 14:40:00,837 - logs : Thread-10 - INFO - query successful
+2019-05-11 14:40:00,837 - logs : Thread-10 - INFO - On get_additinal_price -- result [(0.1,)]
+2019-05-11 14:40:00,837 - logs : Thread-10 - INFO - Executing post query: INSERT INTO sales (name, bill, salesdate) VALUES (?, ?, ?), ('John', 1.1, '2019-05-11 14:40:00')
+2019-05-11 14:40:00,837 - logs : Thread-10 - INFO - post query successful
+2019-05-11 14:40:00,839 - logs : Thread-10 - INFO - Salesman John, bill 1.1.
+2019-05-11 14:40:00,840 - logs : Thread-10 - INFO - order sent to db, bill ('John', 1.1, '2019-05-11 14:40:00')
+2019-05-11 14:40:00,848 - logs : Thread-11 - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 14:40:00,848 - logs : Thread-11 - INFO - query successful
+2019-05-11 14:40:00,848 - logs : Thread-11 - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 14:40:00,849 - logs : Thread-11 - INFO - Web - beverage selection
+2019-05-11 14:40:02,778 - logs : Thread-12 - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 14:40:02,778 - logs : Thread-12 - INFO - query successful
+2019-05-11 14:40:02,778 - logs : Thread-12 - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 14:40:02,778 - logs : Thread-12 - INFO - Web - additionals selection
+2019-05-11 14:40:04,524 - logs : Thread-13 - INFO - Web - requesting bill
+2019-05-11 14:40:05,249 - logs : Thread-14 - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Americano',)
+2019-05-11 14:40:05,250 - logs : Thread-14 - INFO - query successful
+2019-05-11 14:40:05,250 - logs : Thread-14 - INFO - On get_beverage_price -- result [(2.0,)]
+2019-05-11 14:40:05,250 - logs : Thread-14 - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Double Sugar',)
+2019-05-11 14:40:05,250 - logs : Thread-14 - INFO - query successful
+2019-05-11 14:40:05,250 - logs : Thread-14 - INFO - On get_additinal_price -- result [(0.2,)]
+2019-05-11 14:40:05,250 - logs : Thread-14 - INFO - Web - for beverage coffee Americano and additional Double Sugar price 2.2 
+2019-05-11 14:40:06,602 - logs : Thread-15 - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Americano',)
+2019-05-11 14:40:06,603 - logs : Thread-15 - INFO - query successful
+2019-05-11 14:40:06,603 - logs : Thread-15 - INFO - On get_beverage_price -- result [(2.0,)]
+2019-05-11 14:40:06,603 - logs : Thread-15 - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Double Sugar',)
+2019-05-11 14:40:06,603 - logs : Thread-15 - INFO - query successful
+2019-05-11 14:40:06,603 - logs : Thread-15 - INFO - On get_additinal_price -- result [(0.2,)]
+2019-05-11 14:40:06,603 - logs : Thread-15 - INFO - Executing post query: INSERT INTO sales (name, bill, salesdate) VALUES (?, ?, ?), ('John', 2.2, '2019-05-11 14:40:06')
+2019-05-11 14:40:06,604 - logs : Thread-15 - INFO - post query successful
+2019-05-11 14:40:06,605 - logs : Thread-15 - INFO - Salesman John, bill 2.2.
+2019-05-11 14:40:06,605 - logs : Thread-15 - INFO - order sent to db, bill ('John', 2.2, '2019-05-11 14:40:06')
+2019-05-11 14:40:06,610 - logs : Thread-16 - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 14:40:06,611 - logs : Thread-16 - INFO - query successful
+2019-05-11 14:40:06,612 - logs : Thread-16 - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 14:40:06,612 - logs : Thread-16 - INFO - Web - beverage selection
+2019-05-11 14:40:08,802 - logs : Thread-17 - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 14:40:08,803 - logs : Thread-17 - INFO - query successful
+2019-05-11 14:40:08,803 - logs : Thread-17 - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 14:40:08,803 - logs : Thread-17 - INFO - Web - additionals selection
+2019-05-11 14:40:11,102 - logs : Thread-18 - INFO - Web - requesting bill
+2019-05-11 14:40:12,079 - logs : Thread-19 - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Raf',)
+2019-05-11 14:40:12,079 - logs : Thread-19 - INFO - query successful
+2019-05-11 14:40:12,080 - logs : Thread-19 - INFO - On get_beverage_price -- result [(3.0,)]
+2019-05-11 14:40:12,080 - logs : Thread-19 - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Lemon',)
+2019-05-11 14:40:12,080 - logs : Thread-19 - INFO - query successful
+2019-05-11 14:40:12,080 - logs : Thread-19 - INFO - On get_additinal_price -- result [(0.1,)]
+2019-05-11 14:40:12,080 - logs : Thread-19 - INFO - Web - for beverage coffee Raf and additional Lemon price 3.1 
+2019-05-11 14:40:14,384 - logs : Thread-20 - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Raf',)
+2019-05-11 14:40:14,384 - logs : Thread-20 - INFO - query successful
+2019-05-11 14:40:14,385 - logs : Thread-20 - INFO - On get_beverage_price -- result [(3.0,)]
+2019-05-11 14:40:14,385 - logs : Thread-20 - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Lemon',)
+2019-05-11 14:40:14,385 - logs : Thread-20 - INFO - query successful
+2019-05-11 14:40:14,385 - logs : Thread-20 - INFO - On get_additinal_price -- result [(0.1,)]
+2019-05-11 14:40:14,385 - logs : Thread-20 - INFO - Executing post query: INSERT INTO sales (name, bill, salesdate) VALUES (?, ?, ?), ('John', 3.1, '2019-05-11 14:40:14')
+2019-05-11 14:40:14,385 - logs : Thread-20 - INFO - post query successful
+2019-05-11 14:40:14,386 - logs : Thread-20 - INFO - Salesman John, bill 3.1.
+2019-05-11 14:40:14,387 - logs : Thread-20 - INFO - order sent to db, bill ('John', 3.1, '2019-05-11 14:40:14')
+2019-05-11 14:40:14,392 - logs : Thread-21 - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 14:40:14,392 - logs : Thread-21 - INFO - query successful
+2019-05-11 14:40:14,393 - logs : Thread-21 - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 14:40:14,393 - logs : Thread-21 - INFO - Web - beverage selection
+2019-05-11 14:40:21,055 - logs : Thread-23 - INFO - Web - selecting user role
+2019-05-11 14:40:22,718 - logs : Thread-24 - INFO - Web - manager role selected
+2019-05-11 14:40:25,626 - logs : Thread-25 - INFO - Web -- manager from site John  
+2019-05-11 14:40:25,626 - logs : Thread-25 - INFO - Executing get query: SELECT * FROM employees WHERE name = ? and position = 2, ('John',)
+2019-05-11 14:40:25,626 - logs : Thread-25 - INFO - query successful
+2019-05-11 14:40:25,627 - logs : Thread-25 - INFO - Manager  John 
+2019-05-11 14:40:42,817 - logs : Thread-32 - INFO - Web -- manager from site Mary  
+2019-05-11 14:40:42,817 - logs : Thread-32 - INFO - Executing get query: SELECT * FROM employees WHERE name = ? and position = 2, ('Mary',)
+2019-05-11 14:40:42,817 - logs : Thread-32 - INFO - query successful
+2019-05-11 14:40:42,817 - logs : Thread-32 - INFO - Manager  Mary 
+2019-05-11 14:40:42,828 - logs : Thread-33 - INFO - Executing get query: SELECT name from employees where position = 1, None
+2019-05-11 14:40:42,828 - logs : Thread-33 - INFO - query successful
+2019-05-11 14:40:42,828 - logs : Thread-33 - INFO - On get_salesmans_names -- result [('John',), ('Ann',), ('Ted',)]
+2019-05-11 14:40:42,828 - logs : Thread-33 - INFO - Executing get query: select count(*) from employees where position = 1, None
+2019-05-11 14:40:42,829 - logs : Thread-33 - INFO - query successful
+2019-05-11 14:40:42,829 - logs : Thread-33 - INFO - On count_salesmans -- result [(3,)]
+2019-05-11 14:40:42,829 - logs : Thread-33 - INFO - Executing get query: SELECT COUNT(*) FROM sales where name = ?, ('John',)
+2019-05-11 14:40:42,829 - logs : Thread-33 - INFO - query successful
+2019-05-11 14:40:42,829 - logs : Thread-33 - INFO - On salesnumber_of_salesman -- result [(3,)]
+2019-05-11 14:40:42,829 - logs : Thread-33 - INFO - Executing get query: SELECT COUNT(*) FROM sales where name = ?, ('Ann',)
+2019-05-11 14:40:42,830 - logs : Thread-33 - INFO - query successful
+2019-05-11 14:40:42,830 - logs : Thread-33 - INFO - On salesnumber_of_salesman -- result [(0,)]
+2019-05-11 14:40:42,830 - logs : Thread-33 - INFO - Executing get query: SELECT COUNT(*) FROM sales where name = ?, ('Ted',)
+2019-05-11 14:40:42,830 - logs : Thread-33 - INFO - query successful
+2019-05-11 14:40:42,831 - logs : Thread-33 - INFO - On salesnumber_of_salesman -- result [(0,)]
+2019-05-11 14:40:42,831 - logs : Thread-33 - INFO - Executing get query: SELECT SUM(bill) FROM sales where name = ?, ('John',)
+2019-05-11 14:40:42,831 - logs : Thread-33 - INFO - query successful
+2019-05-11 14:40:42,831 - logs : Thread-33 - INFO - Executing get query: SELECT SUM(bill) FROM sales where name = ?, ('John',)
+2019-05-11 14:40:42,831 - logs : Thread-33 - INFO - query successful
+2019-05-11 14:40:42,831 - logs : Thread-33 - INFO - On salessum_of_manager -- result [(6.4,)]
+2019-05-11 14:40:42,832 - logs : Thread-33 - INFO - Executing get query: SELECT SUM(bill) FROM sales where name = ?, ('Ann',)
+2019-05-11 14:40:42,832 - logs : Thread-33 - INFO - query successful
+2019-05-11 14:40:42,832 - logs : Thread-33 - INFO - Executing get query: SELECT SUM(bill) FROM sales where name = ?, ('Ann',)
+2019-05-11 14:40:42,832 - logs : Thread-33 - INFO - query successful
+2019-05-11 14:40:42,832 - logs : Thread-33 - INFO - On salessum_of_manager -- result [(0,)]
+2019-05-11 14:40:42,832 - logs : Thread-33 - INFO - Executing get query: SELECT SUM(bill) FROM sales where name = ?, ('Ted',)
+2019-05-11 14:40:42,832 - logs : Thread-33 - INFO - query successful
+2019-05-11 14:40:42,832 - logs : Thread-33 - INFO - Executing get query: SELECT SUM(bill) FROM sales where name = ?, ('Ted',)
+2019-05-11 14:40:42,832 - logs : Thread-33 - INFO - query successful
+2019-05-11 14:40:42,832 - logs : Thread-33 - INFO - On salessum_of_manager -- result [(0,)]
+2019-05-11 14:40:42,833 - logs : Thread-33 - INFO - Web -- manager requested sales data [['John', 3, 6.4], ['Ann', 0, 0], ['Ted', 0, 0], ['Total', 3, 6.4]]  
+2019-05-11 14:41:28,564 - logs : Thread-34 - INFO - Web - selecting user role
+2019-05-11 14:41:29,986 - logs : Thread-35 - INFO - Web - salesman role selected
+2019-05-11 14:41:46,445 - logs : Thread-36 - INFO - Web - salesman Ann logged in
+2019-05-11 14:41:46,446 - logs : Thread-36 - INFO - Executing get query: SELECT * FROM employees WHERE name = ? and position = 1, ('Ann',)
+2019-05-11 14:41:46,446 - logs : Thread-36 - INFO - query successful
+2019-05-11 14:41:46,446 - logs : Thread-36 - INFO - Salesman  Ann 
+2019-05-11 14:41:46,457 - logs : Thread-37 - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 14:41:46,458 - logs : Thread-37 - INFO - query successful
+2019-05-11 14:41:46,458 - logs : Thread-37 - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 14:41:46,458 - logs : Thread-37 - INFO - Web - beverage selection
+2019-05-11 14:41:48,127 - logs : Thread-38 - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 14:41:48,127 - logs : Thread-38 - INFO - query successful
+2019-05-11 14:41:48,127 - logs : Thread-38 - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 14:41:48,128 - logs : Thread-38 - INFO - Web - additionals selection
+2019-05-11 14:41:49,812 - logs : Thread-39 - INFO - Web - requesting bill
+2019-05-11 14:41:50,643 - logs : Thread-40 - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('tea Black',)
+2019-05-11 14:41:50,643 - logs : Thread-40 - INFO - query successful
+2019-05-11 14:41:50,644 - logs : Thread-40 - INFO - On get_beverage_price -- result [(0.5,)]
+2019-05-11 14:41:50,644 - logs : Thread-40 - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Cinnamon',)
+2019-05-11 14:41:50,644 - logs : Thread-40 - INFO - query successful
+2019-05-11 14:41:50,644 - logs : Thread-40 - INFO - On get_additinal_price -- result [(0.4,)]
+2019-05-11 14:41:50,644 - logs : Thread-40 - INFO - Web - for beverage tea Black and additional Cinnamon price 0.9 
+2019-05-11 14:41:52,011 - logs : Thread-41 - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('tea Black',)
+2019-05-11 14:41:52,012 - logs : Thread-41 - INFO - query successful
+2019-05-11 14:41:52,012 - logs : Thread-41 - INFO - On get_beverage_price -- result [(0.5,)]
+2019-05-11 14:41:52,012 - logs : Thread-41 - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Cinnamon',)
+2019-05-11 14:41:52,012 - logs : Thread-41 - INFO - query successful
+2019-05-11 14:41:52,012 - logs : Thread-41 - INFO - On get_additinal_price -- result [(0.4,)]
+2019-05-11 14:41:52,012 - logs : Thread-41 - INFO - Executing post query: INSERT INTO sales (name, bill, salesdate) VALUES (?, ?, ?), ('Ann', 0.9, '2019-05-11 14:41:52')
+2019-05-11 14:41:52,013 - logs : Thread-41 - INFO - post query successful
+2019-05-11 14:41:52,014 - logs : Thread-41 - INFO - Salesman Ann, bill 0.9.
+2019-05-11 14:41:52,014 - logs : Thread-41 - INFO - order sent to db, bill ('Ann', 0.9, '2019-05-11 14:41:52')
+2019-05-11 14:41:52,020 - logs : Thread-42 - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 14:41:52,020 - logs : Thread-42 - INFO - query successful
+2019-05-11 14:41:52,020 - logs : Thread-42 - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 14:41:52,020 - logs : Thread-42 - INFO - Web - beverage selection
+2019-05-11 14:41:52,878 - logs : Thread-43 - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 14:41:52,878 - logs : Thread-43 - INFO - query successful
+2019-05-11 14:41:52,879 - logs : Thread-43 - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 14:41:52,879 - logs : Thread-43 - INFO - Web - additionals selection
+2019-05-11 14:41:54,513 - logs : Thread-44 - INFO - Web - requesting bill
+2019-05-11 14:41:55,371 - logs : Thread-45 - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Latte',)
+2019-05-11 14:41:55,371 - logs : Thread-45 - INFO - query successful
+2019-05-11 14:41:55,372 - logs : Thread-45 - INFO - On get_beverage_price -- result [(5.0,)]
+2019-05-11 14:41:55,372 - logs : Thread-45 - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Cream',)
+2019-05-11 14:41:55,372 - logs : Thread-45 - INFO - query successful
+2019-05-11 14:41:55,373 - logs : Thread-45 - INFO - On get_additinal_price -- result [(0.3,)]
+2019-05-11 14:41:55,373 - logs : Thread-45 - INFO - Web - for beverage coffee Latte and additional Cream price 5.3 
+2019-05-11 14:41:56,365 - logs : Thread-46 - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Latte',)
+2019-05-11 14:41:56,365 - logs : Thread-46 - INFO - query successful
+2019-05-11 14:41:56,365 - logs : Thread-46 - INFO - On get_beverage_price -- result [(5.0,)]
+2019-05-11 14:41:56,365 - logs : Thread-46 - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Cream',)
+2019-05-11 14:41:56,366 - logs : Thread-46 - INFO - query successful
+2019-05-11 14:41:56,366 - logs : Thread-46 - INFO - On get_additinal_price -- result [(0.3,)]
+2019-05-11 14:41:56,366 - logs : Thread-46 - INFO - Executing post query: INSERT INTO sales (name, bill, salesdate) VALUES (?, ?, ?), ('Ann', 5.3, '2019-05-11 14:41:56')
+2019-05-11 14:41:56,366 - logs : Thread-46 - INFO - post query successful
+2019-05-11 14:41:56,367 - logs : Thread-46 - INFO - Salesman Ann, bill 5.3.
+2019-05-11 14:41:56,367 - logs : Thread-46 - INFO - order sent to db, bill ('Ann', 5.3, '2019-05-11 14:41:56')
+2019-05-11 14:41:56,384 - logs : Thread-47 - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 14:41:56,384 - logs : Thread-47 - INFO - query successful
+2019-05-11 14:41:56,384 - logs : Thread-47 - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 14:41:56,384 - logs : Thread-47 - INFO - Web - beverage selection
+2019-05-11 14:41:57,287 - logs : Thread-48 - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 14:41:57,287 - logs : Thread-48 - INFO - query successful
+2019-05-11 14:41:57,287 - logs : Thread-48 - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 14:41:57,288 - logs : Thread-48 - INFO - Web - additionals selection
+2019-05-11 14:41:58,750 - logs : Thread-49 - INFO - Web - requesting bill
+2019-05-11 14:41:59,710 - logs : Thread-50 - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Espresso',)
+2019-05-11 14:41:59,711 - logs : Thread-50 - INFO - query successful
+2019-05-11 14:41:59,712 - logs : Thread-50 - INFO - On get_beverage_price -- result [(1.0,)]
+2019-05-11 14:41:59,712 - logs : Thread-50 - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Cherry liqueur',)
+2019-05-11 14:41:59,712 - logs : Thread-50 - INFO - query successful
+2019-05-11 14:41:59,712 - logs : Thread-50 - INFO - On get_additinal_price -- result [(0.8,)]
+2019-05-11 14:41:59,712 - logs : Thread-50 - INFO - Web - for beverage coffee Espresso and additional Cherry liqueur price 1.8 
+2019-05-11 14:42:00,751 - logs : Thread-51 - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Espresso',)
+2019-05-11 14:42:00,751 - logs : Thread-51 - INFO - query successful
+2019-05-11 14:42:00,752 - logs : Thread-51 - INFO - On get_beverage_price -- result [(1.0,)]
+2019-05-11 14:42:00,752 - logs : Thread-51 - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Cherry liqueur',)
+2019-05-11 14:42:00,752 - logs : Thread-51 - INFO - query successful
+2019-05-11 14:42:00,752 - logs : Thread-51 - INFO - On get_additinal_price -- result [(0.8,)]
+2019-05-11 14:42:00,752 - logs : Thread-51 - INFO - Executing post query: INSERT INTO sales (name, bill, salesdate) VALUES (?, ?, ?), ('Ann', 1.8, '2019-05-11 14:42:00')
+2019-05-11 14:42:00,752 - logs : Thread-51 - INFO - post query successful
+2019-05-11 14:42:00,753 - logs : Thread-51 - INFO - Salesman Ann, bill 1.8.
+2019-05-11 14:42:00,753 - logs : Thread-51 - INFO - order sent to db, bill ('Ann', 1.8, '2019-05-11 14:42:00')
+2019-05-11 14:42:00,758 - logs : Thread-52 - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 14:42:00,758 - logs : Thread-52 - INFO - query successful
+2019-05-11 14:42:00,758 - logs : Thread-52 - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 14:42:00,759 - logs : Thread-52 - INFO - Web - beverage selection
+2019-05-11 14:42:04,420 - logs : Thread-53 - INFO - Web - selecting user role
+2019-05-11 14:42:10,293 - logs : Thread-54 - INFO - Web - salesman role selected
+2019-05-11 14:42:11,701 - logs : Thread-55 - INFO - Web - salesman Ted logged in
+2019-05-11 14:42:11,701 - logs : Thread-55 - INFO - Executing get query: SELECT * FROM employees WHERE name = ? and position = 1, ('Ted',)
+2019-05-11 14:42:11,701 - logs : Thread-55 - INFO - query successful
+2019-05-11 14:42:11,701 - logs : Thread-55 - INFO - Salesman  Ted 
+2019-05-11 14:42:11,709 - logs : Thread-56 - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 14:42:11,709 - logs : Thread-56 - INFO - query successful
+2019-05-11 14:42:11,709 - logs : Thread-56 - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 14:42:11,709 - logs : Thread-56 - INFO - Web - beverage selection
+2019-05-11 14:42:16,787 - logs : Thread-57 - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 14:42:16,787 - logs : Thread-57 - INFO - query successful
+2019-05-11 14:42:16,787 - logs : Thread-57 - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 14:42:16,787 - logs : Thread-57 - INFO - Web - additionals selection
+2019-05-11 14:42:17,884 - logs : Thread-58 - INFO - Web - requesting bill
+2019-05-11 14:42:18,900 - logs : Thread-59 - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('tea Green',)
+2019-05-11 14:42:18,900 - logs : Thread-59 - INFO - query successful
+2019-05-11 14:42:18,900 - logs : Thread-59 - INFO - On get_beverage_price -- result [(0.5,)]
+2019-05-11 14:42:18,900 - logs : Thread-59 - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('none',)
+2019-05-11 14:42:18,901 - logs : Thread-59 - INFO - query successful
+2019-05-11 14:42:18,901 - logs : Thread-59 - INFO - On get_additinal_price -- result [(0.0,)]
+2019-05-11 14:42:18,901 - logs : Thread-59 - INFO - Web - for beverage tea Green and additional none price 0.5 
+2019-05-11 14:42:20,339 - logs : Thread-60 - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('tea Green',)
+2019-05-11 14:42:20,339 - logs : Thread-60 - INFO - query successful
+2019-05-11 14:42:20,340 - logs : Thread-60 - INFO - On get_beverage_price -- result [(0.5,)]
+2019-05-11 14:42:20,340 - logs : Thread-60 - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('none',)
+2019-05-11 14:42:20,340 - logs : Thread-60 - INFO - query successful
+2019-05-11 14:42:20,340 - logs : Thread-60 - INFO - On get_additinal_price -- result [(0.0,)]
+2019-05-11 14:42:20,341 - logs : Thread-60 - INFO - Executing post query: INSERT INTO sales (name, bill, salesdate) VALUES (?, ?, ?), ('Ted', 0.5, '2019-05-11 14:42:20')
+2019-05-11 14:42:20,341 - logs : Thread-60 - INFO - post query successful
+2019-05-11 14:42:20,342 - logs : Thread-60 - INFO - Salesman Ted, bill 0.5.
+2019-05-11 14:42:20,342 - logs : Thread-60 - INFO - order sent to db, bill ('Ted', 0.5, '2019-05-11 14:42:20')
+2019-05-11 14:42:20,350 - logs : Thread-61 - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 14:42:20,351 - logs : Thread-61 - INFO - query successful
+2019-05-11 14:42:20,351 - logs : Thread-61 - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 14:42:20,351 - logs : Thread-61 - INFO - Web - beverage selection
+2019-05-11 14:42:23,453 - logs : Thread-62 - INFO - Web - selecting user role
+2019-05-11 14:55:32,291 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 14:55:32,291 - app.logs : MainThread - INFO - query successful
+2019-05-11 14:55:32,291 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 14:55:32,292 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 14:55:32,292 - app.logs : MainThread - INFO - query successful
+2019-05-11 14:55:32,292 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:04:44,487 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:04:44,501 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:04:44,502 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:04:44,503 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:04:44,503 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:04:44,503 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:06:35,942 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:06:35,945 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:06:35,945 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:06:35,946 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:06:35,947 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:06:35,947 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:11:25,451 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:11:25,452 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:11:25,452 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:11:25,452 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:11:25,452 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:11:25,453 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:11:25,458 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:11:25,458 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:11:25,458 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:11:25,458 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:11:25,458 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:11:25,459 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:11:25,476 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:11:25,476 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:11:25,476 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:11:25,476 - app.logs : MainThread - INFO - Web - additionals selection
+2019-05-11 15:11:25,522 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:11:25,522 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:11:25,523 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:11:25,523 - app.logs : MainThread - INFO - Web - beverage selection
+2019-05-11 15:11:25,539 - app.logs : MainThread - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Raf',)
+2019-05-11 15:11:25,539 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:11:25,539 - app.logs : MainThread - INFO - On get_beverage_price -- result [(3.0,)]
+2019-05-11 15:11:25,540 - app.logs : MainThread - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Sugar',)
+2019-05-11 15:11:25,540 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:11:25,540 - app.logs : MainThread - INFO - On get_additinal_price -- result [(0.1,)]
+2019-05-11 15:11:25,540 - app.logs : MainThread - INFO - Web - for beverage coffee Raf and additional Sugar price 3.1 
+2019-05-11 15:11:25,544 - app.logs : MainThread - INFO - Web - manager role selected
+2019-05-11 15:11:25,547 - app.logs : MainThread - INFO - Web - requesting bill
+2019-05-11 15:11:25,551 - app.logs : MainThread - INFO - Web - salesman role selected
+2019-05-11 15:11:25,556 - app.logs : MainThread - INFO - Web - selecting user role
+2019-05-11 15:12:32,489 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:12:32,490 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:12:32,490 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:12:32,491 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:12:32,491 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:12:32,491 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:12:48,246 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:12:48,247 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:12:48,248 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:12:48,248 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:12:48,248 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:12:48,249 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:12:52,496 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:12:52,497 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:12:52,497 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:12:52,497 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:12:52,497 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:12:52,497 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:12:52,502 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:12:52,502 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:12:52,502 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:12:52,503 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:12:52,503 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:12:52,503 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:12:52,513 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:12:52,513 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:12:52,513 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:12:52,514 - app.logs : MainThread - INFO - Web - additionals selection
+2019-05-11 15:12:52,521 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:12:52,521 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:12:52,522 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:12:52,522 - app.logs : MainThread - INFO - Web - beverage selection
+2019-05-11 15:12:52,536 - app.logs : MainThread - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Raf',)
+2019-05-11 15:12:52,536 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:12:52,537 - app.logs : MainThread - INFO - On get_beverage_price -- result [(3.0,)]
+2019-05-11 15:12:52,537 - app.logs : MainThread - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Sugar',)
+2019-05-11 15:12:52,537 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:12:52,537 - app.logs : MainThread - INFO - On get_additinal_price -- result [(0.1,)]
+2019-05-11 15:12:52,538 - app.logs : MainThread - INFO - Web - for beverage coffee Raf and additional Sugar price 3.1 
+2019-05-11 15:12:52,542 - app.logs : MainThread - INFO - Web - manager role selected
+2019-05-11 15:12:52,547 - app.logs : MainThread - INFO - Web - requesting bill
+2019-05-11 15:12:52,553 - app.logs : MainThread - INFO - Web - salesman role selected
+2019-05-11 15:12:52,558 - app.logs : MainThread - INFO - Web - selecting user role
+2019-05-11 15:13:21,340 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:13:21,340 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:13:21,340 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:13:21,341 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:13:21,341 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:13:21,341 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:13:52,227 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:13:52,228 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:13:52,228 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:13:52,229 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:13:52,229 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:13:52,229 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:14:08,652 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:14:08,653 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:14:08,653 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:14:08,653 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:14:08,653 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:14:08,654 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:14:19,104 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:14:19,105 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:14:19,105 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:14:19,105 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:14:19,106 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:14:19,106 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:14:19,112 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:14:19,112 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:14:19,112 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:14:19,113 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:14:19,113 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:14:19,113 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:14:19,131 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:14:19,131 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:14:19,132 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:14:19,132 - app.logs : MainThread - INFO - Web - additionals selection
+2019-05-11 15:14:19,148 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:14:19,149 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:14:19,149 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:14:19,149 - app.logs : MainThread - INFO - Web - beverage selection
+2019-05-11 15:14:19,168 - app.logs : MainThread - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Raf',)
+2019-05-11 15:14:19,169 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:14:19,169 - app.logs : MainThread - INFO - On get_beverage_price -- result [(3.0,)]
+2019-05-11 15:14:19,170 - app.logs : MainThread - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Sugar',)
+2019-05-11 15:14:19,170 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:14:19,171 - app.logs : MainThread - INFO - On get_additinal_price -- result [(0.1,)]
+2019-05-11 15:14:19,171 - app.logs : MainThread - INFO - Web - for beverage coffee Raf and additional Sugar price 3.1 
+2019-05-11 15:14:19,179 - app.logs : MainThread - INFO - Web - manager role selected
+2019-05-11 15:14:19,183 - app.logs : MainThread - INFO - Web - requesting bill
+2019-05-11 15:14:19,186 - app.logs : MainThread - INFO - Web - salesman role selected
+2019-05-11 15:14:19,193 - app.logs : MainThread - INFO - Web - selecting user role
+2019-05-11 15:14:41,380 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:14:41,380 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:14:41,380 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:14:41,381 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:14:41,381 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:14:41,381 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:14:55,307 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:14:55,309 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:14:55,309 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:14:55,311 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:14:55,312 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:14:55,312 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:14:55,326 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:14:55,327 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:14:55,327 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:14:55,328 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:14:55,328 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:14:55,328 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:14:55,346 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:14:55,346 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:14:55,346 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:14:55,346 - app.logs : MainThread - INFO - Web - additionals selection
+2019-05-11 15:14:55,355 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:14:55,355 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:14:55,355 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:14:55,355 - app.logs : MainThread - INFO - Web - beverage selection
+2019-05-11 15:14:55,368 - app.logs : MainThread - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Raf',)
+2019-05-11 15:14:55,368 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:14:55,368 - app.logs : MainThread - INFO - On get_beverage_price -- result [(3.0,)]
+2019-05-11 15:14:55,368 - app.logs : MainThread - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Sugar',)
+2019-05-11 15:14:55,368 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:14:55,368 - app.logs : MainThread - INFO - On get_additinal_price -- result [(0.1,)]
+2019-05-11 15:14:55,368 - app.logs : MainThread - INFO - Web - for beverage coffee Raf and additional Sugar price 3.1 
+2019-05-11 15:14:55,375 - app.logs : MainThread - INFO - Web - manager role selected
+2019-05-11 15:14:55,379 - app.logs : MainThread - INFO - Web - requesting bill
+2019-05-11 15:14:55,383 - app.logs : MainThread - INFO - Web - salesman role selected
+2019-05-11 15:14:55,387 - app.logs : MainThread - INFO - Web - selecting user role
+2019-05-11 15:16:29,238 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:16:29,239 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:16:29,239 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:16:29,239 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:16:29,240 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:16:29,240 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:16:41,255 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:16:41,255 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:16:41,255 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:16:41,256 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:16:41,256 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:16:41,256 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:17:40,805 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:17:40,805 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:17:40,805 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:17:40,806 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:17:40,806 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:17:40,806 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:17:40,810 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:17:40,810 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:17:40,810 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:17:40,811 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:17:40,811 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:17:40,811 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:17:40,828 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:17:40,828 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:17:40,828 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:17:40,828 - app.logs : MainThread - INFO - Web - additionals selection
+2019-05-11 15:17:40,839 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:17:40,839 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:17:40,839 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:17:40,839 - app.logs : MainThread - INFO - Web - beverage selection
+2019-05-11 15:17:40,855 - app.logs : MainThread - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Raf',)
+2019-05-11 15:17:40,855 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:17:40,856 - app.logs : MainThread - INFO - On get_beverage_price -- result [(3.0,)]
+2019-05-11 15:17:40,856 - app.logs : MainThread - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Sugar',)
+2019-05-11 15:17:40,856 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:17:40,856 - app.logs : MainThread - INFO - On get_additinal_price -- result [(0.1,)]
+2019-05-11 15:17:40,856 - app.logs : MainThread - INFO - Web - for beverage coffee Raf and additional Sugar price 3.1 
+2019-05-11 15:17:40,870 - app.logs : MainThread - INFO - Web - manager role selected
+2019-05-11 15:17:40,872 - app.logs : MainThread - INFO - Web - requesting bill
+2019-05-11 15:17:40,884 - app.logs : MainThread - INFO - Web - salesman role selected
+2019-05-11 15:17:40,886 - app.logs : MainThread - INFO - Web - selecting user role
+2019-05-11 15:19:07,488 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:19:07,488 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:19:07,488 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:19:07,489 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:19:07,489 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:19:07,489 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:19:49,327 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:19:49,329 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:19:49,329 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:19:49,330 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:19:49,331 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:19:49,332 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:20:44,474 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:20:44,497 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:20:44,497 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:20:44,498 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:20:44,499 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:20:44,499 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:21:13,503 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:21:13,506 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:21:13,506 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:21:13,507 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:21:13,507 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:21:13,507 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:21:27,346 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:21:27,347 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:21:27,347 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:21:27,347 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:21:27,347 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:21:27,347 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:28:17,482 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:28:17,491 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:28:17,491 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:28:17,492 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:28:17,492 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:28:17,492 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:28:22,362 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:28:22,362 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:28:22,362 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:28:22,363 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:28:22,363 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:28:22,363 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:28:22,368 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:28:22,368 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:28:22,368 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:28:22,369 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:28:22,369 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:28:22,369 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:28:22,402 - app.logs : MainThread - INFO - Web - selecting user role
+2019-05-11 15:29:38,675 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:29:38,675 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:29:38,676 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:29:38,676 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:29:38,676 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:29:38,676 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:29:38,682 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:29:38,682 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:29:38,682 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:29:38,682 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:29:38,682 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:29:38,682 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:29:38,708 - app.logs : MainThread - INFO - Web - selecting user role
+2019-05-11 15:30:16,596 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:30:16,597 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:30:16,597 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:30:16,597 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:30:16,598 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:30:16,598 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:30:16,603 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:30:16,603 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:30:16,604 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:30:16,605 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:30:16,605 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:30:16,605 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:30:16,614 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:30:16,614 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:30:16,614 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:30:16,614 - app.logs : MainThread - INFO - Web - additionals selection
+2019-05-11 15:30:16,624 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:30:16,624 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:30:16,624 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:30:16,624 - app.logs : MainThread - INFO - Web - beverage selection
+2019-05-11 15:30:16,629 - app.logs : MainThread - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Raf',)
+2019-05-11 15:30:16,630 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:30:16,630 - app.logs : MainThread - INFO - On get_beverage_price -- result [(3.0,)]
+2019-05-11 15:30:16,630 - app.logs : MainThread - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Sugar',)
+2019-05-11 15:30:16,630 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:30:16,630 - app.logs : MainThread - INFO - On get_additinal_price -- result [(0.1,)]
+2019-05-11 15:30:16,630 - app.logs : MainThread - INFO - Web - for beverage coffee Raf and additional Sugar price 3.1 
+2019-05-11 15:30:16,633 - app.logs : MainThread - INFO - Web - manager role selected
+2019-05-11 15:30:16,638 - app.logs : MainThread - INFO - Web - requesting bill
+2019-05-11 15:30:16,642 - app.logs : MainThread - INFO - Web - salesman role selected
+2019-05-11 15:30:55,171 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:30:55,171 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:30:55,171 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:30:55,172 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:30:55,172 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:30:55,172 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:30:55,177 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:30:55,177 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:30:55,177 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:30:55,178 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:30:55,178 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:30:55,178 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:30:55,187 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:30:55,187 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:30:55,187 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:30:55,188 - app.logs : MainThread - INFO - Web - additionals selection
+2019-05-11 15:30:55,194 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:30:55,195 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:30:55,195 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:30:55,195 - app.logs : MainThread - INFO - Web - beverage selection
+2019-05-11 15:30:55,199 - app.logs : MainThread - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Raf',)
+2019-05-11 15:30:55,199 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:30:55,199 - app.logs : MainThread - INFO - On get_beverage_price -- result [(3.0,)]
+2019-05-11 15:30:55,200 - app.logs : MainThread - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Sugar',)
+2019-05-11 15:30:55,200 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:30:55,200 - app.logs : MainThread - INFO - On get_additinal_price -- result [(0.1,)]
+2019-05-11 15:30:55,200 - app.logs : MainThread - INFO - Web - for beverage coffee Raf and additional Sugar price 3.1 
+2019-05-11 15:30:55,203 - app.logs : MainThread - INFO - Web - manager role selected
+2019-05-11 15:30:55,205 - app.logs : MainThread - INFO - Web - requesting bill
+2019-05-11 15:30:55,208 - app.logs : MainThread - INFO - Web - salesman role selected
+2019-05-11 15:30:55,212 - app.logs : MainThread - INFO - Web - selecting user role
+2019-05-11 15:31:21,175 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:31:21,184 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:31:21,184 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:31:21,185 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:31:21,185 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:31:21,186 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:31:21,203 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:31:21,204 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:31:21,204 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:31:21,205 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:31:21,205 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:31:21,206 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:31:21,223 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:31:21,223 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:31:21,223 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:31:21,224 - app.logs : MainThread - INFO - Web - additionals selection
+2019-05-11 15:31:21,237 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:31:21,237 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:31:21,237 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:31:21,237 - app.logs : MainThread - INFO - Web - beverage selection
+2019-05-11 15:31:21,243 - app.logs : MainThread - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Raf',)
+2019-05-11 15:31:21,244 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:31:21,244 - app.logs : MainThread - INFO - On get_beverage_price -- result [(3.0,)]
+2019-05-11 15:31:21,244 - app.logs : MainThread - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Sugar',)
+2019-05-11 15:31:21,244 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:31:21,244 - app.logs : MainThread - INFO - On get_additinal_price -- result [(0.1,)]
+2019-05-11 15:31:21,244 - app.logs : MainThread - INFO - Web - for beverage coffee Raf and additional Sugar price 3.1 
+2019-05-11 15:31:21,251 - app.logs : MainThread - INFO - Web - manager role selected
+2019-05-11 15:31:21,255 - app.logs : MainThread - INFO - Web - requesting bill
+2019-05-11 15:31:21,258 - app.logs : MainThread - INFO - Web - salesman role selected
+2019-05-11 15:32:29,114 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:32:29,115 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:32:29,115 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:32:29,116 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:32:29,116 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:32:29,116 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:32:29,122 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:32:29,122 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:32:29,122 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:32:29,122 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:32:29,123 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:32:29,123 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:32:29,143 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:32:29,143 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:32:29,143 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:32:29,144 - app.logs : MainThread - INFO - Web - additionals selection
+2019-05-11 15:32:29,162 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:32:29,162 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:32:29,162 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:32:29,162 - app.logs : MainThread - INFO - Web - beverage selection
+2019-05-11 15:32:29,167 - app.logs : MainThread - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Raf',)
+2019-05-11 15:32:29,167 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:32:29,167 - app.logs : MainThread - INFO - On get_beverage_price -- result [(3.0,)]
+2019-05-11 15:32:29,167 - app.logs : MainThread - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Sugar',)
+2019-05-11 15:32:29,168 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:32:29,168 - app.logs : MainThread - INFO - On get_additinal_price -- result [(0.1,)]
+2019-05-11 15:32:29,168 - app.logs : MainThread - INFO - Web - for beverage coffee Raf and additional Sugar price 3.1 
+2019-05-11 15:32:29,171 - app.logs : MainThread - INFO - Web - manager role selected
+2019-05-11 15:32:29,175 - app.logs : MainThread - INFO - Web - requesting bill
+2019-05-11 15:32:29,179 - app.logs : MainThread - INFO - Web - salesman role selected
+2019-05-11 15:32:29,185 - app.logs : MainThread - INFO - Web - selecting user role
+2019-05-11 15:33:46,835 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:33:46,836 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:33:46,836 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:33:46,837 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:33:46,837 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:33:46,837 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:33:46,842 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:33:46,843 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:33:46,843 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:33:46,843 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:33:46,843 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:33:46,843 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:33:46,861 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:33:46,862 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:33:46,862 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:33:46,862 - app.logs : MainThread - INFO - Web - additionals selection
+2019-05-11 15:33:46,875 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:33:46,875 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:33:46,875 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:33:46,875 - app.logs : MainThread - INFO - Web - beverage selection
+2019-05-11 15:33:46,880 - app.logs : MainThread - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Raf',)
+2019-05-11 15:33:46,880 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:33:46,880 - app.logs : MainThread - INFO - On get_beverage_price -- result [(3.0,)]
+2019-05-11 15:33:46,880 - app.logs : MainThread - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Sugar',)
+2019-05-11 15:33:46,880 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:33:46,880 - app.logs : MainThread - INFO - On get_additinal_price -- result [(0.1,)]
+2019-05-11 15:33:46,880 - app.logs : MainThread - INFO - Web - for beverage coffee Raf and additional Sugar price 3.1 
+2019-05-11 15:33:46,884 - app.logs : MainThread - INFO - Web - manager role selected
+2019-05-11 15:33:46,889 - app.logs : MainThread - INFO - Web - requesting bill
+2019-05-11 15:33:46,892 - app.logs : MainThread - INFO - Web - salesman role selected
+2019-05-11 15:33:46,896 - app.logs : MainThread - INFO - Web - selecting user role
+2019-05-11 15:36:57,753 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:36:57,754 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:36:57,754 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:36:57,754 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:36:57,754 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:36:57,755 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:36:57,760 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:36:57,760 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:36:57,761 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:36:57,762 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:36:57,762 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:36:57,762 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:36:57,780 - app.logs : MainThread - INFO - Executing get query: select addit_type from additionals_type, None
+2019-05-11 15:36:57,780 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:36:57,780 - app.logs : MainThread - INFO - On get_additionals_types -- result [('Sugar',), ('Double Sugar',), ('Cream',), ('Cinnamon',), ('Lemon',), ('Cognac',), ('Cherry liqueur',), ('none',)]
+2019-05-11 15:36:57,780 - app.logs : MainThread - INFO - Web - additionals selection
+2019-05-11 15:36:57,789 - app.logs : MainThread - INFO - Executing get query: select bev_type from beverage_type, None
+2019-05-11 15:36:57,789 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:36:57,789 - app.logs : MainThread - INFO - On get_beverage_types -- result [('coffee Espresso',), ('coffee Americano',), ('coffee Raf',), ('coffee Cappuccino',), ('coffee Latte',), ('tea Black',), ('tea Green',)]
+2019-05-11 15:36:57,789 - app.logs : MainThread - INFO - Web - beverage selection
+2019-05-11 15:36:57,794 - app.logs : MainThread - INFO - Executing get query: SELECT price_bev from beverage_type where bev_type = ?, ('coffee Raf',)
+2019-05-11 15:36:57,794 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:36:57,794 - app.logs : MainThread - INFO - On get_beverage_price -- result [(3.0,)]
+2019-05-11 15:36:57,795 - app.logs : MainThread - INFO - Executing get query: SELECT price_addit from additionals_type where addit_type = ?, ('Sugar',)
+2019-05-11 15:36:57,795 - app.logs : MainThread - INFO - query successful
+2019-05-11 15:36:57,795 - app.logs : MainThread - INFO - On get_additinal_price -- result [(0.1,)]
+2019-05-11 15:36:57,795 - app.logs : MainThread - INFO - Web - for beverage coffee Raf and additional Sugar price 3.1 
+2019-05-11 15:36:57,799 - app.logs : MainThread - INFO - Web - manager role selected
+2019-05-11 15:36:57,802 - app.logs : MainThread - INFO - Web - requesting bill
+2019-05-11 15:36:57,806 - app.logs : MainThread - INFO - Web - salesman role selected
+2019-05-11 15:36:57,811 - app.logs : MainThread - INFO - Web - selecting user role
